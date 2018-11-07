@@ -5,6 +5,8 @@
 		puts "Fizz"
 	elseif i % 5 == 0
 		puts "Buzz"
+	elseif i % 7 == 0
+		puts "git"
 	else
 		puts i
 	end
